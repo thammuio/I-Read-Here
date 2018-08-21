@@ -13,3 +13,4 @@ https://dev.to/thammuio
 ## [Hashnode](https://hashnode.com/)
 https://hashnode.com/@thammuio
 
+## [Designed Lynx](https://www.designerlynx.co/)
