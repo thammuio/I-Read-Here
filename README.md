@@ -13,4 +13,4 @@ https://dev.to/thammuio
 ## [Hashnode](https://hashnode.com/)
 https://hashnode.com/@thammuio
 
-## [Designed Lynx](https://www.designerlynx.co/)  - UI design resources
+## [Designed Lynx](https://www.designerlynx.co/)  - UI Design Resources
