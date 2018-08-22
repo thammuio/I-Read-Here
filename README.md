@@ -16,5 +16,5 @@ https://hashnode.com/@thammuio
 ## [Designed Lynx](https://www.designerlynx.co/)  - UI Design Resources
 
 
-## [Stackshsre.io](https://stackshare.io) - Software and technology stacks used by top companies
+## [Stackshare.io](https://stackshare.io) - Software and technology stacks used by top companies
 https://stackshare.io/thammuio
